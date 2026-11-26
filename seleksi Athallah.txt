@@ -1,0 +1,14 @@
+usia = int(input("masukan usia anda :"))
+
+if usia >= 17:
+    print("boleh menonton filem dewasa")
+elif usia >= 17:
+    print("anda boleh menonton filem 2 demensi")
+
+else:
+    print("anda bisa memilih film animasi 2 dimensi")   
+
+print("1. filem horor")
+print("2. komedi keluarga")
+
+pilihan
